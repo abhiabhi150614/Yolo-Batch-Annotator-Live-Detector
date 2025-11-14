@@ -1,4 +1,4 @@
-+# Automatic Annotator Using Live Dataset
+# Automatic Annotator Using Live Dataset
 
 A YOLO-based object detection system that can automatically annotate images and perform live detection from video streams.
 
